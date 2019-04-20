@@ -5,11 +5,12 @@
 <h4 align="center"><b>记录精彩的程序人生，享受美好的幸福生活</b></h4>
 <p align="center"><a title="犹念觏止" target="_blank" href="https://github.com/aeneag/solo-blog"><img src="https://img.shields.io/github/last-commit/aeneag/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/aeneag/solo-blog"><img src="https://img.shields.io/github/repo-size/aeneag/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.5.0-f1e05a.svg?style=flat-square"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/aeneag/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [关于我](https://aeneag.xyz/personinfo)
 * [【算法_1】开贴](https://aeneag.xyz/articles/2019/04/19/1555682360516.html)
 * [【毕设_9】stm32单片机程序ing](https://aeneag.xyz/articles/2019/04/07/1554642487139.html)
 * [【毕设_8】需求分析结束（之后补），敲代码ing](https://aeneag.xyz/articles/2019/03/14/1552537723673.html)

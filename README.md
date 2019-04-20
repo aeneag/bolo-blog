@@ -10,19 +10,19 @@
 
 ### 最新
 
-* [【算法_1】开贴](http://aeneag.xyz/articles/2019/04/19/1555682360516.html)
-* [【毕设_9】stm32单片机程序ing](http://aeneag.xyz/articles/2019/04/07/1554642487139.html)
-* [【毕设_8】需求分析结束（之后补），敲代码ing](http://aeneag.xyz/articles/2019/03/14/1552537723673.html)
-* [【毕设_7】simpleWIFI模块_连不上了](http://aeneag.xyz/articles/2019/03/08/1552050097769.html)
-* [【毕设_6】GY-30模块_光照强度](http://aeneag.xyz/articles/2019/02/10/1549789897339.html)
-* [【毕设_5】DHT11模块_温湿度](http://aeneag.xyz/articles/2019/02/01/1549001236292.html)
-* [【毕设_4】simpleWIFI模块_数据保存](http://aeneag.xyz/articles/2019/01/26/1548470043733.html)
-* [【毕设_3】simpleWIFI模块_公网](http://aeneag.xyz/articles/2019/01/25/1548426241471.html)
-* [【毕设_2】simpleWIFI模块_局域网](http://aeneag.xyz/articles/2019/01/24/1548313914476.html)
-* [【毕设_1】选题啦！](http://aeneag.xyz/articles/2019/01/22/1548127607802.html)
-* [【问题】不登录，无法评论](http://aeneag.xyz/articles/2019/01/22/1548127401372.html)
-* [【linux】网络聊天室Socket编程](http://aeneag.xyz/articles/2019/01/22/1548126821667.html)
-* [Solo，你好！关于搭建博客介绍](http://aeneag.xyz/hello-solo)
+* [【算法_1】开贴](http://aeneag.xyz/solo-v3.5.0/articles/2019/04/19/1555682360516.html)
+* [【毕设_9】stm32单片机程序ing](http://aeneag.xyz/solo-v3.5.0/articles/2019/04/07/1554642487139.html)
+* [【毕设_8】需求分析结束（之后补），敲代码ing](http://aeneag.xyz/solo-v3.5.0/articles/2019/03/14/1552537723673.html)
+* [【毕设_7】simpleWIFI模块_连不上了](http://aeneag.xyz/solo-v3.5.0/articles/2019/03/08/1552050097769.html)
+* [【毕设_6】GY-30模块_光照强度](http://aeneag.xyz/solo-v3.5.0/articles/2019/02/10/1549789897339.html)
+* [【毕设_5】DHT11模块_温湿度](http://aeneag.xyz/solo-v3.5.0/articles/2019/02/01/1549001236292.html)
+* [【毕设_4】simpleWIFI模块_数据保存](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/26/1548470043733.html)
+* [【毕设_3】simpleWIFI模块_公网](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/25/1548426241471.html)
+* [【毕设_2】simpleWIFI模块_局域网](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/24/1548313914476.html)
+* [【毕设_1】选题啦！](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/22/1548127607802.html)
+* [【问题】不登录，无法评论](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/22/1548127401372.html)
+* [【linux】网络聊天室Socket编程](http://aeneag.xyz/solo-v3.5.0/articles/2019/01/22/1548126821667.html)
+* [Solo，你好！关于搭建博客介绍](http://aeneag.xyz/solo-v3.5.0/hello-solo)
 
 
 

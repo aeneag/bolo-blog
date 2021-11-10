@@ -1,4 +1,4 @@
-<p align="center"><img alt="犹念觏止" src="https://secure.gravatar.com/avatar/9387fcea5f1dcb401039c59a4ee9ddcc?s=128"></p><h2 align="center">
+<p align="center"><img alt="犹念觏止" src="https://b3logfile.com/file/2021/11/WechatIMG320-874dadbf.jpeg"></p><h2 align="center">
 犹念觏止
 </h2>
 
